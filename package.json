@@ -1,0 +1,22 @@
+{
+  "name": "2long2wait",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node main.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@types/ora": "^3.2.0",
+    "ora": "^4.0.3",
+    "ts-node": "^8.5.4",
+    "typescript": "^3.7.2",
+    "uuid-by-string": "^3.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^12.12.14"
+  }
+}
